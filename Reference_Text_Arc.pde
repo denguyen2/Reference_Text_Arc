@@ -24,4 +24,4 @@ noFill();
 strokeWeight(4);
 arc(mouseX-0,mouseY-0,32,35,radians(260),radians(440));
 arc(mouseX-0,mouseY-0,32,35,radians(260),radians(440));
-save("Dennis,ReferenceTextandArc,Drawing,png"); }
+}
